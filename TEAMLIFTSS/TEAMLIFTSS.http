@@ -1,0 +1,6 @@
+@TEAMLIFTSS_HostAddress = http://localhost:5231
+
+GET {{TEAMLIFTSS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
