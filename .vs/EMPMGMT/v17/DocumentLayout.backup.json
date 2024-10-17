@@ -1,37 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Large\\DeskTop\\MCA_PROJECT\\API\\EMPMGMT\\",
+  "WorkspaceRootPath": "D:\\Git-Hub\\MCA_MAIN PROJECT\\EMPMGNT_EMSAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{140BDBBB-BD02-4982-9461-B0C71CF5D273}|TEAMLIFTSS\\TEAMLIFTSS.csproj|d:\\large\\desktop\\mca_project\\api\\empmgmt\\teamliftss\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{140BDBBB-BD02-4982-9461-B0C71CF5D273}|TEAMLIFTSS\\TEAMLIFTSS.csproj|solutionrelative:teamliftss\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{140BDBBB-BD02-4982-9461-B0C71CF5D273}|TEAMLIFTSS\\TEAMLIFTSS.csproj|d:\\git-hub\\mca_main project\\empmgnt_emsapi\\teamliftss\\teamliftss.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{140BDBBB-BD02-4982-9461-B0C71CF5D273}|TEAMLIFTSS\\TEAMLIFTSS.csproj|solutionrelative:teamliftss\\teamliftss.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{140BDBBB-BD02-4982-9461-B0C71CF5D273}|TEAMLIFTSS\\TEAMLIFTSS.csproj|d:\\large\\desktop\\mca_project\\api\\empmgmt\\teamliftss\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{140BDBBB-BD02-4982-9461-B0C71CF5D273}|TEAMLIFTSS\\TEAMLIFTSS.csproj|solutionrelative:teamliftss\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{140BDBBB-BD02-4982-9461-B0C71CF5D273}|TEAMLIFTSS\\TEAMLIFTSS.csproj|d:\\large\\desktop\\mca_project\\api\\empmgmt\\teamliftss\\services\\employeedetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{140BDBBB-BD02-4982-9461-B0C71CF5D273}|TEAMLIFTSS\\TEAMLIFTSS.csproj|solutionrelative:teamliftss\\services\\employeedetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{140BDBBB-BD02-4982-9461-B0C71CF5D273}|TEAMLIFTSS\\TEAMLIFTSS.csproj|d:\\large\\desktop\\mca_project\\api\\empmgmt\\teamliftss\\services\\iservices\\iemployeedetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{140BDBBB-BD02-4982-9461-B0C71CF5D273}|TEAMLIFTSS\\TEAMLIFTSS.csproj|solutionrelative:teamliftss\\services\\iservices\\iemployeedetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{140BDBBB-BD02-4982-9461-B0C71CF5D273}|TEAMLIFTSS\\TEAMLIFTSS.csproj|d:\\large\\desktop\\mca_project\\api\\empmgmt\\teamliftss\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{140BDBBB-BD02-4982-9461-B0C71CF5D273}|TEAMLIFTSS\\TEAMLIFTSS.csproj|solutionrelative:teamliftss\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{140BDBBB-BD02-4982-9461-B0C71CF5D273}|TEAMLIFTSS\\TEAMLIFTSS.csproj|d:\\large\\desktop\\mca_project\\api\\empmgmt\\teamliftss\\services\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{140BDBBB-BD02-4982-9461-B0C71CF5D273}|TEAMLIFTSS\\TEAMLIFTSS.csproj|d:\\git-hub\\mca_main project\\empmgnt_emsapi\\teamliftss\\services\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{140BDBBB-BD02-4982-9461-B0C71CF5D273}|TEAMLIFTSS\\TEAMLIFTSS.csproj|solutionrelative:teamliftss\\services\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{140BDBBB-BD02-4982-9461-B0C71CF5D273}|TEAMLIFTSS\\TEAMLIFTSS.csproj|d:\\large\\desktop\\mca_project\\api\\empmgmt\\teamliftss\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{140BDBBB-BD02-4982-9461-B0C71CF5D273}|TEAMLIFTSS\\TEAMLIFTSS.csproj|d:\\git-hub\\mca_main project\\empmgnt_emsapi\\teamliftss\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140BDBBB-BD02-4982-9461-B0C71CF5D273}|TEAMLIFTSS\\TEAMLIFTSS.csproj|solutionrelative:teamliftss\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140BDBBB-BD02-4982-9461-B0C71CF5D273}|TEAMLIFTSS\\TEAMLIFTSS.csproj|d:\\git-hub\\mca_main project\\empmgnt_emsapi\\teamliftss\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{140BDBBB-BD02-4982-9461-B0C71CF5D273}|TEAMLIFTSS\\TEAMLIFTSS.csproj|solutionrelative:teamliftss\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140BDBBB-BD02-4982-9461-B0C71CF5D273}|TEAMLIFTSS\\TEAMLIFTSS.csproj|d:\\git-hub\\mca_main project\\empmgnt_emsapi\\teamliftss\\services\\iservices\\iemployeedetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140BDBBB-BD02-4982-9461-B0C71CF5D273}|TEAMLIFTSS\\TEAMLIFTSS.csproj|solutionrelative:teamliftss\\services\\iservices\\iemployeedetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140BDBBB-BD02-4982-9461-B0C71CF5D273}|TEAMLIFTSS\\TEAMLIFTSS.csproj|d:\\git-hub\\mca_main project\\empmgnt_emsapi\\teamliftss\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140BDBBB-BD02-4982-9461-B0C71CF5D273}|TEAMLIFTSS\\TEAMLIFTSS.csproj|solutionrelative:teamliftss\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140BDBBB-BD02-4982-9461-B0C71CF5D273}|TEAMLIFTSS\\TEAMLIFTSS.csproj|d:\\git-hub\\mca_main project\\empmgnt_emsapi\\teamliftss\\services\\employeedetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140BDBBB-BD02-4982-9461-B0C71CF5D273}|TEAMLIFTSS\\TEAMLIFTSS.csproj|solutionrelative:teamliftss\\services\\employeedetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140BDBBB-BD02-4982-9461-B0C71CF5D273}|TEAMLIFTSS\\TEAMLIFTSS.csproj|d:\\git-hub\\mca_main project\\empmgnt_emsapi\\teamliftss\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{140BDBBB-BD02-4982-9461-B0C71CF5D273}|TEAMLIFTSS\\TEAMLIFTSS.csproj|solutionrelative:teamliftss\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{140BDBBB-BD02-4982-9461-B0C71CF5D273}|TEAMLIFTSS\\TEAMLIFTSS.csproj|d:\\large\\desktop\\mca_project\\api\\empmgmt\\teamliftss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{140BDBBB-BD02-4982-9461-B0C71CF5D273}|TEAMLIFTSS\\TEAMLIFTSS.csproj|d:\\git-hub\\mca_main project\\empmgnt_emsapi\\teamliftss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{140BDBBB-BD02-4982-9461-B0C71CF5D273}|TEAMLIFTSS\\TEAMLIFTSS.csproj|solutionrelative:teamliftss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,11 +54,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Teamliftss.txt",
+              "DocumentMoniker": "D:\\Git-Hub\\MCA_MAIN PROJECT\\EMPMGNT_EMSAPI\\TEAMLIFTSS\\Teamliftss.txt",
+              "RelativeDocumentMoniker": "TEAMLIFTSS\\Teamliftss.txt",
+              "ToolTip": "D:\\Git-Hub\\MCA_MAIN PROJECT\\EMPMGNT_EMSAPI\\TEAMLIFTSS\\Teamliftss.txt*",
+              "RelativeToolTip": "TEAMLIFTSS\\Teamliftss.txt*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-17T18:18:18.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "EmployeeDetailsService.cs",
-              "DocumentMoniker": "D:\\Large\\DeskTop\\MCA_PROJECT\\API\\EMPMGMT\\TEAMLIFTSS\\Services\\EmployeeDetailsService.cs",
+              "DocumentMoniker": "D:\\Git-Hub\\MCA_MAIN PROJECT\\EMPMGNT_EMSAPI\\TEAMLIFTSS\\Services\\EmployeeDetailsService.cs",
               "RelativeDocumentMoniker": "TEAMLIFTSS\\Services\\EmployeeDetailsService.cs",
-              "ToolTip": "D:\\Large\\DeskTop\\MCA_PROJECT\\API\\EMPMGMT\\TEAMLIFTSS\\Services\\EmployeeDetailsService.cs",
+              "ToolTip": "D:\\Git-Hub\\MCA_MAIN PROJECT\\EMPMGNT_EMSAPI\\TEAMLIFTSS\\Services\\EmployeeDetailsService.cs",
               "RelativeToolTip": "TEAMLIFTSS\\Services\\EmployeeDetailsService.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -62,23 +79,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IEmployeeDetailsService.cs",
-              "DocumentMoniker": "D:\\Large\\DeskTop\\MCA_PROJECT\\API\\EMPMGMT\\TEAMLIFTSS\\Services\\IServices\\IEmployeeDetailsService.cs",
+              "DocumentMoniker": "D:\\Git-Hub\\MCA_MAIN PROJECT\\EMPMGNT_EMSAPI\\TEAMLIFTSS\\Services\\IServices\\IEmployeeDetailsService.cs",
               "RelativeDocumentMoniker": "TEAMLIFTSS\\Services\\IServices\\IEmployeeDetailsService.cs",
-              "ToolTip": "D:\\Large\\DeskTop\\MCA_PROJECT\\API\\EMPMGMT\\TEAMLIFTSS\\Services\\IServices\\IEmployeeDetailsService.cs",
+              "ToolTip": "D:\\Git-Hub\\MCA_MAIN PROJECT\\EMPMGNT_EMSAPI\\TEAMLIFTSS\\Services\\IServices\\IEmployeeDetailsService.cs",
               "RelativeToolTip": "TEAMLIFTSS\\Services\\IServices\\IEmployeeDetailsService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:35:17.317Z"
+              "WhenOpened": "2024-09-30T11:35:17.317Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ApiResponse.cs",
-              "DocumentMoniker": "D:\\Large\\DeskTop\\MCA_PROJECT\\API\\EMPMGMT\\TEAMLIFTSS\\Models\\ApiResponse.cs",
+              "DocumentMoniker": "D:\\Git-Hub\\MCA_MAIN PROJECT\\EMPMGNT_EMSAPI\\TEAMLIFTSS\\Models\\ApiResponse.cs",
               "RelativeDocumentMoniker": "TEAMLIFTSS\\Models\\ApiResponse.cs",
-              "ToolTip": "D:\\Large\\DeskTop\\MCA_PROJECT\\API\\EMPMGMT\\TEAMLIFTSS\\Models\\ApiResponse.cs",
+              "ToolTip": "D:\\Git-Hub\\MCA_MAIN PROJECT\\EMPMGNT_EMSAPI\\TEAMLIFTSS\\Models\\ApiResponse.cs",
               "RelativeToolTip": "TEAMLIFTSS\\Models\\ApiResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -86,23 +104,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "AttendanceService.cs",
-              "DocumentMoniker": "D:\\Large\\DeskTop\\MCA_PROJECT\\API\\EMPMGMT\\TEAMLIFTSS\\Services\\AttendanceService.cs",
+              "DocumentMoniker": "D:\\Git-Hub\\MCA_MAIN PROJECT\\EMPMGNT_EMSAPI\\TEAMLIFTSS\\Services\\AttendanceService.cs",
               "RelativeDocumentMoniker": "TEAMLIFTSS\\Services\\AttendanceService.cs",
-              "ToolTip": "D:\\Large\\DeskTop\\MCA_PROJECT\\API\\EMPMGMT\\TEAMLIFTSS\\Services\\AttendanceService.cs",
+              "ToolTip": "D:\\Git-Hub\\MCA_MAIN PROJECT\\EMPMGNT_EMSAPI\\TEAMLIFTSS\\Services\\AttendanceService.cs",
               "RelativeToolTip": "TEAMLIFTSS\\Services\\AttendanceService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAkAAAA",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwAgAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:07:32.586Z"
+              "WhenOpened": "2024-09-30T11:07:32.586Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Large\\DeskTop\\MCA_PROJECT\\API\\EMPMGMT\\TEAMLIFTSS\\Program.cs",
+              "DocumentMoniker": "D:\\Git-Hub\\MCA_MAIN PROJECT\\EMPMGNT_EMSAPI\\TEAMLIFTSS\\Program.cs",
               "RelativeDocumentMoniker": "TEAMLIFTSS\\Program.cs",
-              "ToolTip": "D:\\Large\\DeskTop\\MCA_PROJECT\\API\\EMPMGMT\\TEAMLIFTSS\\Program.cs",
+              "ToolTip": "D:\\Git-Hub\\MCA_MAIN PROJECT\\EMPMGNT_EMSAPI\\TEAMLIFTSS\\Program.cs",
               "RelativeToolTip": "TEAMLIFTSS\\Program.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAAE4AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -110,24 +129,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Large\\DeskTop\\MCA_PROJECT\\API\\EMPMGMT\\TEAMLIFTSS\\appsettings.json",
+              "DocumentMoniker": "D:\\Git-Hub\\MCA_MAIN PROJECT\\EMPMGNT_EMSAPI\\TEAMLIFTSS\\appsettings.json",
               "RelativeDocumentMoniker": "TEAMLIFTSS\\appsettings.json",
-              "ToolTip": "D:\\Large\\DeskTop\\MCA_PROJECT\\API\\EMPMGMT\\TEAMLIFTSS\\appsettings.json",
+              "ToolTip": "D:\\Git-Hub\\MCA_MAIN PROJECT\\EMPMGNT_EMSAPI\\TEAMLIFTSS\\appsettings.json",
               "RelativeToolTip": "TEAMLIFTSS\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAByAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-09-30T10:56:18.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "EmployeeController.cs",
-              "DocumentMoniker": "D:\\Large\\DeskTop\\MCA_PROJECT\\API\\EMPMGMT\\TEAMLIFTSS\\Controllers\\EmployeeController.cs",
+              "DocumentMoniker": "D:\\Git-Hub\\MCA_MAIN PROJECT\\EMPMGNT_EMSAPI\\TEAMLIFTSS\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "TEAMLIFTSS\\Controllers\\EmployeeController.cs",
-              "ToolTip": "D:\\Large\\DeskTop\\MCA_PROJECT\\API\\EMPMGMT\\TEAMLIFTSS\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Git-Hub\\MCA_MAIN PROJECT\\EMPMGNT_EMSAPI\\TEAMLIFTSS\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "TEAMLIFTSS\\Controllers\\EmployeeController.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAgwDwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -135,19 +154,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "AttendanceController.cs",
-              "DocumentMoniker": "D:\\Large\\DeskTop\\MCA_PROJECT\\API\\EMPMGMT\\TEAMLIFTSS\\Controllers\\AttendanceController.cs",
+              "DocumentMoniker": "D:\\Git-Hub\\MCA_MAIN PROJECT\\EMPMGNT_EMSAPI\\TEAMLIFTSS\\Controllers\\AttendanceController.cs",
               "RelativeDocumentMoniker": "TEAMLIFTSS\\Controllers\\AttendanceController.cs",
-              "ToolTip": "D:\\Large\\DeskTop\\MCA_PROJECT\\API\\EMPMGMT\\TEAMLIFTSS\\Controllers\\AttendanceController.cs",
+              "ToolTip": "D:\\Git-Hub\\MCA_MAIN PROJECT\\EMPMGNT_EMSAPI\\TEAMLIFTSS\\Controllers\\AttendanceController.cs",
               "RelativeToolTip": "TEAMLIFTSS\\Controllers\\AttendanceController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwCsAAABAAAAA",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T10:53:52.14Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-09-30T10:53:52.14Z",
+              "EditorCaption": ""
             }
           ]
         }

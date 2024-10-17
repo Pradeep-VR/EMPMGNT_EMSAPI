@@ -5,7 +5,21 @@ Entity Connection Command :
 		Scaffold-DbContext "Server=DESKTOP-E8PLHLV\SA;Database=EMPMGMT;Trusted_Connection=True;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Repos/TableModels -Context ApplicationDBContext -Force -ContextDir Repos -DataAnnotations
 
 		<!--  New Cmd   -->
-		Scaffold-DbContext "Server=192.168.0.180;Database=EMPMGMT;User id=sa;Password=Welcome@123;Trusted_Connection=True;TrustServerCertificate=True;Integrated Security=false;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Repos/TableModels -Context ApplicationDBContext -Force -ContextDir Repos -DataAnnotations	
+		Scaffold-DbContext "Server=100.84.167.144;Database=EMPMGMT;User id=sa;Password=Welcome@123;Trusted_Connection=True;TrustServerCertificate=True;Integrated Security=false;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Repos/TableModels -Context ApplicationDBContext -Force -ContextDir Repos -DataAnnotations	
 
 
 		Give in Package Manager Console. 
+
+
+
+CREATE TABLE TASKDETAILS (
+TASKID UNIQUEIDENTIFIER NOT NULL,
+TASKASSIGNERS NVARCHAR(50),
+TASKRECEIVER NVARCHAR(50),
+TASKCONTENT NVARCHAR(MAX),
+TASKENDTIME DATETIME,
+TASKSTATUS NVARCHAR(50),
+REASON NVARCHAR(MAX),
+FOREIGN KEY (TASKASSIGNERS) REFERENCES EMPLOYEEDETAILS(EMPID),
+FOREIGN KEY (TASKRECEIVER) REFERENCES EMPLOYEEDETAILS(EMPID)
+)

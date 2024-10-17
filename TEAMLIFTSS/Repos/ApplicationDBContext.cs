@@ -22,9 +22,11 @@ public partial class ApplicationDBContext : DbContext
 
     public virtual DbSet<Refreshtoken> Refreshtokens { get; set; }
 
+    public virtual DbSet<Taskdetail> Taskdetails { get; set; }
+
 //    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 //#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-//        => optionsBuilder.UseSqlServer("Server=192.168.0.180;Database=EMPMGMT;User id=sa;Password=Welcome@123;Trusted_Connection=True;TrustServerCertificate=True;Integrated Security=false;");
+//        => optionsBuilder.UseSqlServer("Server=100.84.167.144;Database=EMPMGMT;User id=sa;Password=Welcome@123;Trusted_Connection=True;TrustServerCertificate=True;Integrated Security=false;");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -48,6 +50,13 @@ public partial class ApplicationDBContext : DbContext
         modelBuilder.Entity<Refreshtoken>(entity =>
         {
             entity.HasKey(e => e.Empid).HasName("PK_TBL_REFRESHTOKEN");
+        });
+
+        modelBuilder.Entity<Taskdetail>(entity =>
+        {
+            entity.HasOne(d => d.TaskassignersNavigation).WithMany().HasConstraintName("FK__TASKDETAI__TASKA__151B244E");
+
+            entity.HasOne(d => d.TaskreceiverNavigation).WithMany().HasConstraintName("FK__TASKDETAI__TASKR__160F4887");
         });
 
         OnModelCreatingPartial(modelBuilder);
