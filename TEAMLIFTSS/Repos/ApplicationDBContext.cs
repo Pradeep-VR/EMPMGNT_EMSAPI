@@ -54,9 +54,13 @@ public partial class ApplicationDBContext : DbContext
 
         modelBuilder.Entity<Taskdetail>(entity =>
         {
-            entity.HasOne(d => d.TaskassignersNavigation).WithMany().HasConstraintName("FK__TASKDETAI__TASKA__151B244E");
+            entity.HasKey(e => e.Taskid).HasName("PK__TASKDETA__27AB857636044577");
 
-            entity.HasOne(d => d.TaskreceiverNavigation).WithMany().HasConstraintName("FK__TASKDETAI__TASKR__160F4887");
+            entity.Property(e => e.Taskid).ValueGeneratedNever();
+
+            entity.HasOne(d => d.TaskassignersNavigation).WithMany(p => p.TaskdetailTaskassignersNavigations).HasConstraintName("FK__TASKDETAI__TASKA__29221CFB");
+
+            entity.HasOne(d => d.TaskreceiverNavigation).WithMany(p => p.TaskdetailTaskreceiverNavigations).HasConstraintName("FK__TASKDETAI__TASKR__2A164134");
         });
 
         OnModelCreatingPartial(modelBuilder);

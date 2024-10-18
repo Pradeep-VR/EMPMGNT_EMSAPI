@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TEAMLIFTSS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f72f8af5ca0a68643dcdd0ac5dff98e044cc6d7f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b12110982d961ea815ad036a6427c67af95b273")]
 [assembly: System.Reflection.AssemblyProductAttribute("TEAMLIFTSS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TEAMLIFTSS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

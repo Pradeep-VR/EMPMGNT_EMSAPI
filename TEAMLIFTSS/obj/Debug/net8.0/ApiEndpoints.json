@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "TEAMLIFTSS.Controllers.TaskAssigningController",
+    "Method": "PostTask",
+    "RelativePath": "api/AssainingTask",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taskDtl",
+        "Type": "TEAMLIFTSS.Repos.TableModels.Taskdetail",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "TEAMLIFTSS.Controllers.AttendanceController",
     "Method": "PostAttendance",
     "RelativePath": "api/Attendance",
@@ -119,6 +135,16 @@
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TEAMLIFTSS.Controllers.TaskAssigningController",
+    "Method": "GetTasks",
+    "RelativePath": "api/Tasks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   },
   {

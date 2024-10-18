@@ -68,4 +68,10 @@ public partial class Employeedetail
 
     [InverseProperty("Employee")]
     public virtual ICollection<Attendancedetail> Attendancedetails { get; set; } = new List<Attendancedetail>();
+
+    [InverseProperty("TaskassignersNavigation")]
+    public virtual ICollection<Taskdetail> TaskdetailTaskassignersNavigations { get; set; } = new List<Taskdetail>();
+
+    [InverseProperty("TaskreceiverNavigation")]
+    public virtual ICollection<Taskdetail> TaskdetailTaskreceiverNavigations { get; set; } = new List<Taskdetail>();
 }

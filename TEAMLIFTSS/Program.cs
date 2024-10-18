@@ -23,6 +23,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddTransient<IRefreshService, RefreshService>();
 builder.Services.AddTransient<IEmployeeDetailsService, EmployeeDetailsService>();
 builder.Services.AddTransient<IAttendanceService, AttendanceService>();
+builder.Services.AddTransient<ITaskAssigning, TaskAssigning>();
 #endregion
 
 #region Database Configurations

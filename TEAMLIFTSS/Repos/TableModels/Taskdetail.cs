@@ -6,10 +6,10 @@ using Microsoft.EntityFrameworkCore;
 
 namespace TEAMLIFTSS.Repos.TableModels;
 
-[Keyless]
 [Table("TASKDETAILS")]
 public partial class Taskdetail
 {
+    [Key]
     [Column("TASKID")]
     public Guid Taskid { get; set; }
 
@@ -35,8 +35,10 @@ public partial class Taskdetail
     public string? Reason { get; set; }
 
     [ForeignKey("Taskassigners")]
+    [InverseProperty("TaskdetailTaskassignersNavigations")]
     public virtual Employeedetail? TaskassignersNavigation { get; set; }
 
     [ForeignKey("Taskreceiver")]
+    [InverseProperty("TaskdetailTaskreceiverNavigations")]
     public virtual Employeedetail? TaskreceiverNavigation { get; set; }
 }
